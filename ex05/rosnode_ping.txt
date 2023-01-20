@@ -1,9 +1,0 @@
-rosnode: node is [/chen_turtle]
-pinging /chen_turtle with a timeout of 3.0s
-xmlrpc reply from http://chen-virtual-machine:45081/	time=1.470089ms
-xmlrpc reply from http://chen-virtual-machine:45081/	time=4.388571ms
-xmlrpc reply from http://chen-virtual-machine:45081/	time=1.949549ms
-xmlrpc reply from http://chen-virtual-machine:45081/	time=2.230406ms
-xmlrpc reply from http://chen-virtual-machine:45081/	time=1.399279ms
-xmlrpc reply from http://chen-virtual-machine:45081/	time=1.517534ms
-ping average: 2.159238ms
