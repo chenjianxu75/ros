@@ -1,0 +1,10 @@
+# Define the goal
+string command
+uint32 s
+uint32 angle
+---
+# Define the result
+bool result
+---
+# Define a feedback message
+uint32 odom

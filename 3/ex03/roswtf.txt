@@ -1,0 +1,22 @@
+Loaded plugin tf.tfwtf
+Package: rosmaster
+================================================================================
+Static checks summary:
+
+No errors or warnings
+================================================================================
+Beginning tests of your ROS graph. These may take a while...
+analyzing graph...
+... done analyzing graph
+running graph rules...
+... done running graph rules
+
+Online checks summary:
+
+Found 1 warning(s).
+Warnings are things that may be just fine, but are sometimes at fault
+
+WARNING The following node subscriptions are unconnected:
+ * /rosout:
+   * /rosout
+

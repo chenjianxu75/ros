@@ -1,0 +1,15 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_chen_virtual_machine__41731: http://chen-virtual-machine:41731/
+rosversion: '1.15.14
+
+  '
+run_id: 833ddf92-6988-11ed-acaf-e9cd0347b80b
+turtlesim:
+  background_b: 255
+  background_g: 124
+  background_r: 69
+
